@@ -1,0 +1,7 @@
+# ignore folders
+build/
+before_git/
+src/__pycache__
+
+# ignore files
+/export_settings.json
